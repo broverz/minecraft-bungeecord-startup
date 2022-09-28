@@ -1,2 +1,3 @@
 # minecraft-bungeecord-startup
-minecraft-bungeecord-startup
+
+Run : Start.bat
